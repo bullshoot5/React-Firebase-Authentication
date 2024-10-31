@@ -29,5 +29,3 @@
 # ![](bes1.gif)
 
 # ![](bes2.gif)
-# React-Firebase-Authentication
-# React-Firebase-Authentication
